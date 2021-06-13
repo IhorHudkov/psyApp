@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "psyApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
